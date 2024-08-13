@@ -1,0 +1,15 @@
+.features {
+    background-color: var(--primary-orange);
+    color: white;
+  }
+  
+  .features h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .features p {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+

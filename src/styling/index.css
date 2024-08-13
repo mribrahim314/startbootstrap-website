@@ -1,0 +1,21 @@
+:root {
+    --primary-orange: #f4623a;
+    --dark-bg: #2c3e50;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .btn-primary {
+    background-color: var(--primary-orange);
+    border-color: var(--primary-orange);
+  }
+  
+  .btn-primary:hover {
+    background-color: #d84f2a;
+    border-color: #d84f2a;
+  }
+  html {
+    scroll-behavior: smooth;
+  }

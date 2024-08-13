@@ -3,12 +3,12 @@ import '../styling/Portfolio.css';
 
 function Portfolio() {
   const images = [
-    '../assets/img/thumbnails/1.jpg',
-    '../assets/img/thumbnails/2.jpg',
-    '../assets/img/thumbnails/3.jpg',
-    '../assets/img/thumbnails/4.jpg',
-    '../assets/img/thumbnails/5.jpg',
-    '../assets/img/thumbnails/6.jpg'
+    'src/assets/img/thumbnails/1.jpg',
+    'src/assets/img/thumbnails/2.jpg',
+    'src/assets/img/thumbnails/3.jpg',
+    'src/assets/img/thumbnails/4.jpg',
+    'src/assets/img/thumbnails/5.jpg',
+    'src/assets/img/thumbnails/6.jpg'
   ];
 
     return (
